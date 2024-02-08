@@ -1,5 +1,4 @@
-Real-time chat applications have become increasingly popular for enabling instant communication between users over the internet. Here's a description for a real-time 
-chat application built using Node.js and Socket.io:
+Real-time chat applications have become increasingly popular for enabling instant communication between users over the internet. Here's a description for a real-time chat  application built using Node.js and Socket.io:
 
 Title: "NodeChat: Real-Time Communication Made Simple"
 
